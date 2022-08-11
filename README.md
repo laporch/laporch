@@ -2,7 +2,7 @@
 - 👀 I’m interested in product designs 
 - 🌱 I’m currently learning Product designs 
 - 💞️ I’m looking to collaborate on product designs
-- 📫 How to reach me via whatsapp +2348152372498, instagram ; la_porch_official
+- 📫 How to reach me via whatsapp +2348152372498
 
 <!---
 laporch/laporch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
